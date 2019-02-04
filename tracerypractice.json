@@ -1,0 +1,75 @@
+{
+	"name": [
+		"Beyone",
+		"Ariana Grande",
+		"Travis Scott",
+		"Maroon 5",
+		"Lady Gaga",
+		"Chance the Rapper",
+		"Sam Smith",
+		"Cardi B"
+	],
+	"occupation": [
+		"singer",
+		"actor",
+		"writer",
+		"artist",
+		"performer",
+		"influencer"
+	],
+	"always": [
+		"barely",
+		"constantly",
+		"regularly",
+		"hardly",
+		"never"
+	],
+	"expecting": [
+		"waiting",
+		"picturing",
+		"predicitng",
+		"wanting",
+		"needing"
+	],
+	"result": [
+		"outcome",
+		"award",
+		"lawsuit",
+		"number one",
+		"mistake"
+	],
+	"origin": [
+		" #name#, a #occupation#, was #always# #expecting# this #result#. This #media# will #reaction# you. www.#website#.com/#page#"
+	],
+	"media": [
+		"news",
+		"result",
+		"backlash",
+		"music",
+		"video",
+		"movie",
+		"concert",
+		"album"
+	],
+	"reaction": [
+		"shock",
+		"surprise",
+		"wow",
+		"worry",
+		"confuse"
+	],
+	"website": [
+		"MTV",
+		"TMZ",
+		"People",
+		"New York Times",
+		"Buzzfeed"
+	],
+	"page": [
+		" celebrities",
+		"drama",
+		"entertainment",
+		"scandals",
+		"media"
+	]
+}
